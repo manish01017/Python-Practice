@@ -1,6 +1,0 @@
-Hello World
-this is new line
-Appending a new line 
-First Line 
-Second Line
-Third Line
